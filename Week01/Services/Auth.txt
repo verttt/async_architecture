@@ -1,0 +1,3 @@
+CUD:
+1) Add account (Login, Password, Role)
+2) Login (Login, Password)

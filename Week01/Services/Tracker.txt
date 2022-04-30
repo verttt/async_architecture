@@ -1,0 +1,6 @@
+CUD:
+1) Task.Created 
+
+BE:
+1) Task.Assigned (Account id, Task id)
+2) Task.Completed (Task id)
