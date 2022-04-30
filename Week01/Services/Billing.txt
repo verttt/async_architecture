@@ -4,4 +4,4 @@ CUD:
 
 BE:
 1) Money.Moved (Account id, Amount)
-2) Payment.Transfered (Account id, Amount)
+2) Payment.Transfered (Account id, Amount)  .
